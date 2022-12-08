@@ -1,0 +1,36 @@
+{
+    "users": [ 
+        {
+            "name": "ashok yemula",
+            "age": 60,
+            "isProgrammer": true,
+            "skills": ["html", "css", "javascript", "react"],
+            "address": {
+                "city": "Kendall Park",
+                "Country": "USA"
+            }
+        },
+        {
+            "name": "ashok 2",
+            "age": 32,
+            "isProgrammer": true,
+            "skills": ["html", "css", "javascript", "react"],
+            "address": {
+                "city": "Kendall Park",
+                "Country": "USA"
+            }
+        },
+        {
+            "name": "ashok 3",
+            "age": 33,
+            "isProgrammer": true,
+            "skills": ["html", "css", "javascript", "react"],
+            "address": {
+                "city": "Kendall Park",
+                "Country": "USA"
+            }
+        }
+
+    ]
+    
+}
